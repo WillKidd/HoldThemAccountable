@@ -8,12 +8,13 @@ This document outlines significant scandals involving corporations that caused h
 2. [Lead in Gasoline - General Motors, DuPont, and Standard Oil](#lead-in-gasoline---general-motors-dupont-and-standard-oil)
 3. [PCBs - Monsanto](#pcbs---monsanto)
 4. [Tobacco Industry Misinformation - Philip Morris International, British American Tobacco](#tobacco-industry-misinformation---philip-morris-international-british-american-tobacco)
-5. [PFAS Chemical Production - DuPont and 3M](#pfas-chemical-production---dupont-and-3m)
-6. [Volkswagen Emissions Scandal](#volkswagen-emissions-scandal)
-7. [The Opioid Crisis - Purdue Pharma](#the-opioid-crisis---purdue-pharma)
-8. [Philips Respironics Sleep Apnea Machines Recall](#philips-respironics-sleep-apnea-machines-recall)
-9. [Microplastics - Various Industries](#microplastics---various-industries)
-10. [Anti-Pregnancy Pills in Drinking Water - Pharmaceutical Industry](#anti-pregnancy-pills-in-drinking-water---pharmaceutical-industry)
+5. [Dow Chemical Company and Pesticides](#dow-chemical-company-and-pesticides)
+6. [PFAS Chemical Production - DuPont and 3M](#pfas-chemical-production---dupont-and-3m)
+7. [Volkswagen Emissions Scandal](#volkswagen-emissions-scandal)
+8. [The Opioid Crisis - Purdue Pharma](#the-opioid-crisis---purdue-pharma)
+9. [Philips Respironics Sleep Apnea Machines Recall](#philips-respironics-sleep-apnea-machines-recall)
+10. [Microplastics - Various Industries](#microplastics---various-industries)
+11. [Anti-Pregnancy Pills in Drinking Water - Pharmaceutical Industry](#anti-pregnancy-pills-in-drinking-water---pharmaceutical-industry)
 
 ---
 
@@ -56,6 +57,16 @@ This document outlines significant scandals involving corporations that caused h
 **Company Knowledge:** Internal documents have shown that tobacco companies were aware of the harmful effects of smoking as early as the 1950s but publicly denied these risks and even funded research to cast doubt on the link between smoking and health issues.
 
 **Legal/Regulatory Outcomes:** Tobacco companies have faced numerous lawsuits and have been subject to heavy regulations and public health campaigns aimed at reducing smoking rates. This includes the landmark Master Settlement Agreement in the United States in 1998.
+
+### Dow Chemical Company and Pesticides
+
+**Overview:** The Dow Chemical Company has been implicated in the production and sale of harmful pesticides, notably chlorpyrifos, which has been linked to neurological damage in children. Despite accumulating evidence of its adverse effects, Dow has engaged in significant lobbying efforts to counteract regulatory restrictions on its pesticide products.
+
+**Harm Caused:** Chlorpyrifos and other pesticides produced by Dow are associated with developmental delays and neurological issues in children, posing risks to those exposed during pregnancy or in agricultural communities. Workers handling these chemicals are also at significant risk.
+
+**Company Knowledge:** There is evidence to suggest that Dow was aware of the risks posed by chlorpyrifos and other chemical products but continued to advocate for their use in agriculture, leveraging political and regulatory influence to maintain market access.
+
+**Legal/Regulatory Outcomes:** The regulatory status of chlorpyrifos has evolved, with several countries and U.S. states banning or restricting its use on food crops. Dow has faced legal challenges and public scrutiny over the safety and environmental impact of its pesticides, even as it remains a dominant force in the global pesticide market.
 
 ### PFAS Chemical Production - DuPont and 3M
 
